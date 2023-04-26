@@ -1,4 +1,4 @@
-# Math-Bounty
+# Math Bounty
 ## A Plutus smart contract that locks deposited funds under a math bounty
 
 This is a Plutus smart contract that locks deposited funds under a math bounty. The bounty requires finding a number whose square matches a given value.
